@@ -1,2 +1,5 @@
-system_memory_dump.bin
+backup
+__pycache__
+.vscode
+.gitignore
 
